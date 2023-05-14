@@ -24,13 +24,13 @@
 
 
 
-| Device                                       | Image                         | Where to Buy | OS |
-| -------------------------------------------- | ----------------------------- | ------------ | -- |
-| Used NUCs                                    | ![nucs]                       | C1           | D1 |
-| Intel NUC                                    | ![ha-nuc]                     | C2           | D2 |
-| UniFi Dream Machine Pro                      | ![udm-pro]                    | C3           | D3 |
-| UniFi Flex HD Ap                             | ![unifi-flex-hd]              | C4           | D4 |
-| TP-Link (T1600G-18TS) 16 Port Managed Switch | ![tp-link-T1600G-18TS-switch] | D4           | D5 |
+| Device                                       | Image                         | OS | Where to Buy |
+| -------------------------------------------- | ----------------------------- | -- | ------------ |
+| Used NUCs                                    | ![nucs]                       | C1 | D1           |
+| Intel NUC                                    | ![ha-nuc]                     | C2 | D2           |
+| UniFi Dream Machine Pro                      | ![udm-pro]                    | C3 | D3           |
+| UniFi Flex HD Ap                             | ![unifi-flex-hd]              | C4 | D4           |
+| TP-Link (T1600G-18TS) 16 Port Managed Switch | ![tp-link-T1600G-18TS-switch] | D4 | D5           |
 
 
 
