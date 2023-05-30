@@ -37,16 +37,15 @@ You'll find my setup below.
 | Used NUCs                                    | ![nucs]                       | C1  | D1           |
 | Intel NUC                                    | ![ha-nuc]                     | C2  | D2           |
 | UniFi Dream Machine Pro                      | ![udm-pro]                    | C3  | D3           |
-| UniFi Flex HD Ap                             | ![unifi-flex-hd]              | C4  | D4           |
+| UniFi Flex HD AP                             | ![unifi-flex-hd]              | C4  | D4           |
 | TP-Link (T1600G-18TS) 16 Port Managed Switch | ![tp-link-T1600G-18TS-switch] | C5  | D5           |
 | Echogear Server Rack                         | ![rack]                       | C6  | D6           |
 | Generic NUC 1U Rack                          | ![nuc-rack]                   | C7  | D7           |
 | Cyberpower power strip 12 outlets            | ![cyberpower-strip-12]        | C8  | D8           |
 | Cyberpower power strip 18 outlets            | ![cyberpower-strip-18]        | C9  | D9           |
 | Synology 9210+ NAS                           | ![synology-9120]              | C10 | D10          |
-| UniFi FlexHD AP                              | ![unifi-flex-hd]              | C11 | D11          |
-| Deco X55 Router                              | ![deco-x55]                   | C12 | D12          |
-| Navepoint 12U Closet Rack                    | ![navepoint-12u-closet-rack]  | C13 | D13          |
+| Deco X55 Router                              | ![deco-x55]                   | C11 | D11          |
+| Navepoint 12U Closet Rack                    | ![navepoint-12u-closet-rack]  | C12 | D12          |
 
 
 
