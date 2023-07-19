@@ -56,7 +56,7 @@ Some of the software running on the servers in my home lab.
 <details>
   <summary>Server Software</summary>
     <ul>
-      <li><a href="hhttps://www.proxmox.com/en/downloads/category/iso-images-pve/">Proxmox</a></li>
+      <li><a href="https://www.proxmox.com/en/downloads/category/iso-images-pve/">Proxmox</a></li>
       <li><a href="https://ubuntu.com/download/server">Ubuntu Server</a></li>
       <li><a href="https://www.docker.com/">Docker</a></li>
       <li><a href="https://k3s.io/">k3s</a></li>
