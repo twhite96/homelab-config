@@ -10,6 +10,7 @@
   - [Who is a home lab for?](#who-is-a-home-lab-for)
     - [What hardware should I invest in?](#what-hardware-should-i-invest-in)
 - [These are the tools and settings I am using in my home lab.](#these-are-the-tools-and-settings-i-am-using-in-my-home-lab)
+  - [Server software](#server-software)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -31,24 +32,39 @@ Maybe grab a server rack, a cheap one will do. A good, solid router is a must if
 You'll find my setup below.
 # These are the tools and settings I am using in my home lab.
 
+<!-- ![](https://img.shields.io/badge/k3s-FFC61C.svg?&style=for-the-badge&logo=k3s&logoColor=white) -->
 
-| Device                                       | Image                         | OS  | Where to Buy |
-| -------------------------------------------- | ----------------------------- | --- | ------------ |
-| Used NUCs                                    | ![nucs]                       | C1  | D1           |
-| Intel NUC                                    | ![ha-nuc]                     | C2  | D2           |
-| UniFi Dream Machine Pro                      | ![udm-pro]                    | C3  | D3           |
-| UniFi Flex HD AP                             | ![unifi-flex-hd]              | C4  | D4           |
-| TP-Link (T1600G-18TS) 16 Port Managed Switch | ![tp-link-T1600G-18TS-switch] | C5  | D5           |
-| Echogear Server Rack                         | ![rack]                       | C6  | D6           |
-| Generic NUC 1U Rack                          | ![nuc-rack]                   | C7  | D7           |
-| Cyberpower power strip 12 outlets            | ![cyberpower-strip-12]        | C8  | D8           |
-| Cyberpower power strip 18 outlets            | ![cyberpower-strip-18]        | C9  | D9           |
-| Synology 9210+ NAS                           | ![synology-9120]              | C10 | D10          |
-| Deco X55 Router                              | ![deco-x55]                   | C11 | D11          |
-| Navepoint 12U Closet Rack                    | ![navepoint-12u-closet-rack]  | C12 | D12          |
+Device                                       | Image                         | OS                                                                                            | Where to Buy |
+| -------------------------------------------- | ----------------------------- | --------------------------------------------------------------------------------------------- | ------------ |
+| Used NUCs                                    | ![nucs]                       | ![](https://img.shields.io/badge/proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=black) ![](https://img.shields.io/badge/k3s-FFC61C.svg?&style=for-the-badge&logo=k3s&logoColor=white) | D1           |
+| Intel NUC                                    | ![ha-nuc]                     | C2                                                                                            | D2           |
+| UniFi Dream Machine Pro                      | ![udm-pro]                    | C3                                                                                            | D3           |
+| UniFi Flex HD AP                             | ![unifi-flex-hd]              | C4                                                                                            | D4           |
+| TP-Link (T1600G-18TS) 16 Port Managed Switch | ![tp-link-T1600G-18TS-switch] | C5                                                                                            | D5           |
+| Echogear Server Rack                         | ![rack]                       | C6                                                                                            | D6           |
+| Generic NUC 1U Rack                          | ![nuc-rack]                   | C7                                                                                            | D7           |
+| Cyberpower power strip 12 outlets            | ![cyberpower-strip-12]        | C8                                                                                            | D8           |
+| Cyberpower power strip 18 outlets            | ![cyberpower-strip-18]        | C9                                                                                            | D9           |
+| Synology 9210+ NAS                           | ![synology-9120]              | C10                                                                                           | D10          |
+| Deco X55 Router                              | ![deco-x55]                   | C11                                                                                           | D11          |
+| Navepoint 12U Closet Rack                    | ![navepoint-12u-closet-rack]  | C12                                                                                           | D12          |
 
 
+## Server software
+Some of the software running on the servers in my home lab.
 
+<details>
+  <summary>Server Software</summary>
+    <ul>
+      <li><a href="hhttps://www.proxmox.com/en/downloads/category/iso-images-pve/">Proxmox</a></li>
+      <li><a href="https://ubuntu.com/download/server">Ubuntu Server</a></li>
+      <li><a href="https://www.docker.com/">Docker</a></li>
+      <li><a href="https://k3s.io/">k3s</a></li>
+      <li><a href="https://www.home-assistant.io/">Home Assistant</a></li>
+      <li><a href="https://tailscale.com/">Tailscale</a></li>
+      <li><a href="https://store.ui.com/collections/unifi-network-unifi-os-consoles/products/udm-pro/">UniFi OS</a></li>
+    </ul>
+</details>
 
  [nucs]: assets/used-nuc.png
  [ha-nuc]: assets/nuc.png
