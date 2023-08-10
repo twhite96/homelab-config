@@ -50,6 +50,9 @@ You'll find my setup below.
 |     | Navepoint 12U Closet Rack                    | ![navepoint-12u-closet-rack]  | C12                                                                                                                                                                                              | D12          |
 |     | Raspberry Pi 4 B 8gb RAM                     | ![raspberry-pi-4]             |                                                                                                                                                                                                  |              |
 
+
+[☝️ Top](#Table-of-Contents)
+
 ## Server software
 Some of the software running on the servers in my home lab.
 
