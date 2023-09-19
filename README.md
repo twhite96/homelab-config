@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="./assets/home-lab.svg" />
+  <img width="100%" src="./assets/tiff.svg" />
 </p>
 
 
