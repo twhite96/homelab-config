@@ -39,13 +39,13 @@ You'll find my setup below.
 |     | Device                                       | Image/Where to Buy (Click the Image)                                                                                          |
 | --- | -------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
 |     |                                              |                                                                                                                               |
-|     | Used NUCs                                    | [![nucs]](https://www.amazon.com/gp/product/B09DCZQFF2/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)                       |
-|     | Intel NUC                                    | [![ha-nuc]]((https://www.amazon.com/gp/product/B09DCZQFF2/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1))                   |
-|     | UniFi Dream Machine Pro                      | [![udm-pro]](https://www.amazon.com/gp/product/B07YQ87QBF/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&)                         |
+|     | Used NUCs                                    | [![nucs]](https://www.ebay.com/itm/285116201597?var=586979484256)                                                             |
+|     | Intel NUC                                    | [![ha-nuc]](https://www.amazon.com/gp/product/B09DCZQFF2/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)                     |
+|     | UniFi Dream Machine Pro                      | [![udm-pro]](https://store.ui.com/us/en/pro/category/all-unifi-cloud-gateways/products/udm-pro)                               |
 |     | UniFi Flex HD AP                             | [![unifi-flex-hd]](https://www.amazon.com/gp/product/B07YQ87QBF)                                                              |
 |     | TP-Link (T1600G-18TS) 16 Port Managed Switch | [![tp-link-T1600G-18TS-switch]](https://www.amazon.com/gp/product/B0797KPRPK/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) |
 |     | Echogear Server Rack                         | [![rack]](https://www.amazon.com/gp/product/B07YYJMCNV/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)                       |
-|     | Generic NUC 1U Rack                          | [![nuc-rack]](https://www.amazon.com/gp/product/B09BJ5WBHB/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)]                  |
+|     | Generic NUC 1U Rack                          | [![nuc-rack]](https://www.amazon.com/gp/product/B09BJ5WBHB/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)                   |
 |     | Cyberpower power strip 12 outlets            | [![cyberpower-strip-12]](https://www.amazon.com/gp/product/B00077INZU/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)        |
 |     | Cyberpower power strip 18 outlets            | [![cyberpower-strip-18]](https://www.amazon.com/gp/product/B004K1YG1Y/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)        |
 |     | Synology DS920+ NAS                          | [![synology-9120]](https://www.amazon.com/gp/product/B087Z34F3R/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)              |
