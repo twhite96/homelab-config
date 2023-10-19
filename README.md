@@ -52,6 +52,7 @@ You'll find my setup below.
 |     | Deco X55 Router                              | [![deco-x55]](https://www.amazon.com/gp/product/B09PRB1MZM/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)                   |
 |     | Navepoint 12U Closet Rack                    | [![navepoint-12u-closet-rack]](https://www.amazon.com/gp/product/B072BXSTY8/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)  |
 |     | Beelink NUC                                  | [![beelink-nuc]](https://www.amazon.com/gp/product/B0BVLPCDVW/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)                |
+|     | CyberPower LCD UPS System 2U Rack/Tower      | [![cyber-power-ups]](https://www.amazon.com/gp/product/B00HDODQYS?th=1)                                                       |                                                                                                                               
 |     | Raspberry Pi 4 B 8gb RAM                     | [![raspberry-pi-4]](https://www.amazon.com/gp/product/B08R87H4RR/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)             |
 
 [☝️ Top](#table-of-contents)
@@ -86,3 +87,4 @@ Some of the software running on the servers in my home lab.
  [navepoint-12u-closet-rack]: assets/navepoint-12u.png
  [raspberry-pi-4]: assets/rpi-4.png
  [beelink-nuc]: assets/beelink.png
+ [cyber-power-ups]: assets/ups.png
