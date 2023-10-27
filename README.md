@@ -36,22 +36,24 @@ You'll find my setup below.
 
 <!-- ![](https://img.shields.io/badge/homeassistant-41BDF5.svg?&style=for-the-badge&logo=homeassistant&logoColor=white) -->
 
-|     | Device                                       | Image                         | OS                                                                                                                                                                                               | Where to Buy |
-| --- | -------------------------------------------- | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------ |
-|     | Used NUCs                                    | ![nucs]                       | ![](https://img.shields.io/badge/proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=black) ![](https://img.shields.io/badge/k3s-FFC61C.svg?&style=for-the-badge&logo=k3s&logoColor=white) | D1           |
-|     | Intel NUC                                    | ![ha-nuc]                     | ![](https://img.shields.io/badge/homeassistant-41BDF5.svg?&style=for-the-badge&logo=homeassistant&logoColor=white)                                                                               | D2           |
-|     | UniFi Dream Machine Pro                      | ![udm-pro]                    | C3                                                                                                                                                                                               | D3           |
-|     | UniFi Flex HD AP                             | ![unifi-flex-hd]              | C4                                                                                                                                                                                               | D4           |
-|     | TP-Link (T1600G-18TS) 16 Port Managed Switch | ![tp-link-T1600G-18TS-switch] | C5                                                                                                                                                                                               | D5           |
-|     | Echogear Server Rack                         | ![rack]                       | C6                                                                                                                                                                                               | D6           |
-|     | Generic NUC 1U Rack                          | ![nuc-rack]                   | C7                                                                                                                                                                                               | D7           |
-|     | Cyberpower power strip 12 outlets            | ![cyberpower-strip-12]        | C8                                                                                                                                                                                               | D8           |
-|     | Cyberpower power strip 18 outlets            | ![cyberpower-strip-18]        | C9                                                                                                                                                                                               | D9           |
-|     | Synology 9210+ NAS                           | ![synology-9120]              | C10                                                                                                                                                                                              | D10          |
-|     | Deco X55 Router                              | ![deco-x55]                   | C11                                                                                                                                                                                              | D11          |
-|     | Navepoint 12U Closet Rack                    | ![navepoint-12u-closet-rack]  | C12                                                                                                                                                                                              | D12          |
-|     | Raspberry Pi 4 B 8gb RAM                     | ![raspberry-pi-4]             |                                                                                                                                                                                                  |              |
-
+|     | Device                                       | Image/Where to Buy (Click the Image)                                                                                          |
+| --- | -------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+|     |                                              |                                                                                                                               |
+|     | Used NUCs                                    | [![nucs]](https://www.ebay.com/itm/285116201597?var=586979484256)                                                             |
+|     | Intel NUC                                    | [![ha-nuc]](https://www.amazon.com/gp/product/B09DCZQFF2/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)                     |
+|     | UniFi Dream Machine Pro                      | [![udm-pro]](https://store.ui.com/us/en/pro/category/all-unifi-cloud-gateways/products/udm-pro)                               |
+|     | UniFi Flex HD AP                             | [![unifi-flex-hd]](https://www.amazon.com/gp/product/B07YQ87QBF)                                                              |
+|     | TP-Link (T1600G-18TS) 16 Port Managed Switch | [![tp-link-T1600G-18TS-switch]](https://www.amazon.com/gp/product/B0797KPRPK/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) |
+|     | Echogear Server Rack                         | [![rack]](https://www.amazon.com/gp/product/B07YYJMCNV/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)                       |
+|     | Generic NUC 1U Rack                          | [![nuc-rack]](https://www.amazon.com/gp/product/B09BJ5WBHB/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)                   |
+|     | Cyberpower power strip 12 outlets            | [![cyberpower-strip-12]](https://www.amazon.com/gp/product/B00077INZU/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)        |
+|     | Cyberpower power strip 18 outlets            | [![cyberpower-strip-18]](https://www.amazon.com/gp/product/B004K1YG1Y/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)        |
+|     | Synology DS920+ NAS                          | [![synology-9120]](https://www.amazon.com/gp/product/B087Z34F3R/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)              |
+|     | Deco X55 Router                              | [![deco-x55]](https://www.amazon.com/gp/product/B09PRB1MZM/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)                   |
+|     | Navepoint 12U Closet Rack                    | [![navepoint-12u-closet-rack]](https://www.amazon.com/gp/product/B072BXSTY8/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)  |
+|     | Beelink NUC                                  | [![beelink-nuc]](https://www.amazon.com/gp/product/B0BVLPCDVW/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)                |
+|     | CyberPower LCD UPS System 2U Rack/Tower      | [![cyber-power-ups]](https://www.amazon.com/gp/product/B00HDODQYS?th=1)                                                       |                                                                                                                               
+|     | Raspberry Pi 4 B 8gb RAM                     | [![raspberry-pi-4]](https://www.amazon.com/gp/product/B08R87H4RR/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)             |
 
 [☝️ Top](#table-of-contents)
 
@@ -84,3 +86,5 @@ Some of the software running on the servers in my home lab.
  [deco-x55]: assets/deco-x55.png
  [navepoint-12u-closet-rack]: assets/navepoint-12u.png
  [raspberry-pi-4]: assets/rpi-4.png
+ [beelink-nuc]: assets/beelink.png
+ [cyber-power-ups]: assets/ups.png
