@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="./assets/tifflabs.svg" />
+  <img width="100%" src="./assets/labs.svg" />
 </p>
 
 
@@ -60,18 +60,7 @@ You'll find my setup below.
 ## Server software
 Some of the software running on the servers in my home lab.
 
-<details>
-  <summary>Server Software</summary>
-    <ul>
-      <li><a href="https://www.proxmox.com/en/downloads/category/iso-images-pve/">Proxmox</a></li>
-      <li><a href="https://ubuntu.com/download/server">Ubuntu Server</a></li>
-      <li><a href="https://www.docker.com/">Docker</a></li>
-      <li><a href="https://k3s.io/">k3s</a></li>
-      <li><a href="https://www.home-assistant.io/">Home Assistant</a></li>
-      <li><a href="https://tailscale.com/">Tailscale</a></li>
-      <li><a href="https://store.ui.com/collections/unifi-network-unifi-os-consoles/products/udm-pro/">UniFi OS</a></li>
-    </ul>
-</details>
+[Software](/software/README.md)
 
  [nucs]: assets/used-nuc.png
  [ha-nuc]: assets/nuc.png
