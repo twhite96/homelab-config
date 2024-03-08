@@ -1,0 +1,21 @@
+- hosts: localhost
+  vars:
+    nfs_version: 3 # to force nfs version to 3.
+  roles:
+  - role: ome.nfs_mount
+    nfs_share_mounts:
+    - path: /mnt/remote
+      location: nfs.example.org:/data
+    # remove a mount from a server
+    - path: /mnt/remote_old
+      location: nfs.example.org:/data1337
+      state: absent
+    - path: /mnt/readonly
+      location: nfs.example.org:/read-only
+      opts: "{{ nfs_mount_opts }},ro"
+    - path: /mnt/ex_passno
+      location: nfs.example.org:/ex_passno
+      passno: 0
+    - path: /mnt/ex_dump
+      location: nfs.example.org:/ex_dump
+      dump: 0
