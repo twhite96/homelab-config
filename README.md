@@ -8,6 +8,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Table of Contents
 
+- [The Purpose of this repo](#the-purpose-of-this-repo)
 - [Introduction: What is a "home lab"?](#introduction-what-is-a-home-lab)
   - [Who is a home lab for?](#who-is-a-home-lab-for)
     - [What hardware should I invest in?](#what-hardware-should-i-invest-in)
@@ -15,6 +16,13 @@
   - [Server software](#server-software)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+
+# The Purpose of this repo
+
+The purpose of this repo, as of today, is to document my homelab and network. From here, the scripts, Dockerfiles, Docker Compose files, and markdown files will be imported into my wiki of choice, [Wiki.js](https://js.wiki/). From there, I will update my [draw.io](https://www.drawio.com/) diagrams to explain which devices are on what subnet and the switches each device is connected to.
+
+If you would like more information about documenting your homelab/network setup, there are some excellent resources listed at the end of this README.
 
 # Introduction: What is a "home lab"?
 
@@ -75,5 +83,7 @@ Some of the software running on the servers in my home lab.
  [deco-x55]: assets/deco-x55.png
  [navepoint-12u-closet-rack]: assets/navepoint-12u.png
  [raspberry-pi-4]: assets/rpi-4.png
+ [raspberry-pi-3B+]: assets/rpi-3bp.png
+ [raspberry-pi-2]: assets/rpi-2.png
  [beelink-nuc]: assets/beelink.png
  [cyber-power-ups]: assets/ups.png
