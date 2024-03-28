@@ -40,6 +40,9 @@ Start *very, very, small*. I've built up the stuff I have over two and a half ye
 Maybe grab a server rack, a cheap one will do. A good, solid router is a must if you're going to be doing this. Pick up a decent ethernet switch and a dedicated mini PC and get your hands dirty. All this can be had for under $500.
 
 You'll find my setup below.
+
+[☝️ Top](#table-of-contents)
+
 # These are the tools and settings I am using in my home lab.
 
 <!-- ![](https://img.shields.io/badge/homeassistant-41BDF5.svg?&style=for-the-badge&logo=homeassistant&logoColor=white) -->
