@@ -3,6 +3,14 @@
 </p>
 
 
+<p align="center">
+  <img alt="GitHub Release" src="https://img.shields.io/github/v/release/twhite96/homelab-config?include_prereleases&style=for-the-badge&logo=github&logoColor=black&labelColor=white&color=%23ff0000">
+  <img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/109435346803331556?domain=https%3A%2F%2Ffosstodon.org&style=for-the-badge&logo=mastodon&logoColor=%23ff0000&label=Fosstodon%20Follows&labelColor=white&color=%23ff0000">
+  <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/twhite96?style=for-the-badge&logoColor=%23ff0000&labelColor=white&color=%23ff0000">
+  <img alt="Gitea Issues" src="https://img.shields.io/gitea/issues/open/tifflabs/homelab-config?gitea_url=https%3A%2F%2F00xlkg.tifflabs.org%2F&style=for-the-badge&logo=gitea&logoColor=%230CE0A1&labelColor=white&color=white">
+</p>
+
+
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -47,24 +55,25 @@ You'll find my setup below.
 
 <!-- ![](https://img.shields.io/badge/homeassistant-41BDF5.svg?&style=for-the-badge&logo=homeassistant&logoColor=white) -->
 
-|     | Device                                       | Image/Where to Buy (Click the Image)                                                                                          |
-| --- | -------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-|     |                                              |                                                                                                                               |
-|     | Used NUCs                                    | [![nucs]](https://www.ebay.com/itm/285116201597?var=586979484256)                                                             |
-|     | Intel NUC                                    | [![ha-nuc]](https://www.amazon.com/gp/product/B09DCZQFF2/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)                     |
-|     | UniFi Dream Machine Pro                      | [![udm-pro]](https://store.ui.com/us/en/pro/category/all-unifi-cloud-gateways/products/udm-pro)                               |
-|     | UniFi Flex HD AP                             | [![unifi-flex-hd]](https://www.amazon.com/gp/product/B07YQ87QBF)                                                              |
-|     | TP-Link (T1600G-18TS) 16 Port Managed Switch | [![tp-link-T1600G-18TS-switch]](https://www.amazon.com/gp/product/B0797KPRPK/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) |
-|     | Echogear Server Rack                         | [![rack]](https://www.amazon.com/gp/product/B07YYJMCNV/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)                       |
-|     | Generic NUC 1U Rack                          | [![nuc-rack]](https://www.amazon.com/gp/product/B09BJ5WBHB/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)                   |
-|     | Cyberpower power strip 12 outlets            | [![cyberpower-strip-12]](https://www.amazon.com/gp/product/B00077INZU/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)        |
-|     | Cyberpower power strip 18 outlets            | [![cyberpower-strip-18]](https://www.amazon.com/gp/product/B004K1YG1Y/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)        |
-|     | Synology DS920+ NAS                          | [![synology-9120]](https://www.amazon.com/gp/product/B087Z34F3R/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)              |
-|     | Deco X55 Router                              | [![deco-x55]](https://www.amazon.com/gp/product/B09PRB1MZM/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)                   |
-|     | Navepoint 12U Closet Rack                    | [![navepoint-12u-closet-rack]](https://www.amazon.com/gp/product/B072BXSTY8/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)  |
-|     | Beelink NUC                                  | [![beelink-nuc]](https://www.amazon.com/gp/product/B0BVLPCDVW/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)                |
-|     | CyberPower LCD UPS System 2U Rack/Tower      | [![cyber-power-ups]](https://www.amazon.com/gp/product/B00HDODQYS?th=1)                                                       |                                                                                                                               
-|     | Raspberry Pi 4 B 8gb RAM                     | [![raspberry-pi-4]](https://www.amazon.com/gp/product/B08R87H4RR/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)             |
+|     | Device                                                   | Image/Where to Buy (Click the Image)                                                                                          |
+| --- | -------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+|     |                                                          |                                                                                                                               |
+|     | Used NUCs                                                | [![nucs]](https://www.ebay.com/itm/285116201597?var=586979484256)                                                             |
+|     | Intel NUC                                                | [![ha-nuc]](https://www.amazon.com/gp/product/B09DCZQFF2/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)                     |
+|     | UniFi Dream Machine Pro                                  | [![udm-pro]](https://store.ui.com/us/en/pro/category/all-unifi-cloud-gateways/products/udm-pro)                               |
+|     | UniFi Flex HD AP                                         | [![unifi-flex-hd]](https://www.amazon.com/gp/product/B07YQ87QBF)                                                              |
+|     | TP-Link (T1600G-18TS) 16 Port Managed Switch             | [![tp-link-T1600G-18TS-switch]](https://www.amazon.com/gp/product/B0797KPRPK/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) |
+|     | Echogear Server Rack                                     | [![rack]](https://www.amazon.com/gp/product/B07YYJMCNV/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)                       |
+|     | Generic NUC 1U Rack                                      | [![nuc-rack]](https://www.amazon.com/gp/product/B09BJ5WBHB/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)                   |
+|     | Cyberpower power strip 12 outlets                        | [![cyberpower-strip-12]](https://www.amazon.com/gp/product/B00077INZU/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)        |
+|     | Cyberpower power strip 18 outlets                        | [![cyberpower-strip-18]](https://www.amazon.com/gp/product/B004K1YG1Y/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)        |
+|     | Synology DS920+ NAS                                      | [![synology-9120]](https://www.amazon.com/gp/product/B087Z34F3R/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)              |
+|     | Deco X55 Router                                          | [![deco-x55]](https://www.amazon.com/gp/product/B09PRB1MZM/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)                   |
+|     | Navepoint 12U Closet Rack                                | [![navepoint-12u-closet-rack]](https://www.amazon.com/gp/product/B072BXSTY8/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)  |
+|     | Beelink NUC                                              | [![beelink-nuc]](https://www.amazon.com/gp/product/B0BVLPCDVW/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)                |
+|     | CyberPower LCD UPS System 2U Rack/Tower                  | [![cyber-power-ups]](https://www.amazon.com/gp/product/B00HDODQYS?th=1)                                                       |
+|     | Raspberry Pi 4 B 8gb RAM                                 | [![raspberry-pi-4]](https://www.amazon.com/gp/product/B08R87H4RR/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)             |
+|     | Beelink S12 Pro Mini PC, Intel 12th Gen Alder Lake- N100 | [![beelink-s12-pro-nucs]](https://www.amazon.com/dp/B0CRKD4YQL?th=1)                                                          |
 
 [☝️ Top](#table-of-contents)
 
@@ -89,4 +98,5 @@ Some of the software running on the servers in my home lab.
  [raspberry-pi-3B+]: assets/rpi-3bp.png
  [raspberry-pi-2]: assets/rpi-2.png
  [beelink-nuc]: assets/beelink.png
+ [beelink-s12-pro-nucs]: assets/beelink-pros.png
  [cyber-power-ups]: assets/ups.png
