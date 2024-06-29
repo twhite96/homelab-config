@@ -7,10 +7,8 @@
   <img alt="GitHub Release" src="https://img.shields.io/github/v/release/twhite96/homelab-config?include_prereleases&style=for-the-badge&logo=github&logoColor=black&labelColor=white&color=%23ff0000">
   <img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/109435346803331556?domain=https%3A%2F%2Ffosstodon.org&style=for-the-badge&logo=mastodon&logoColor=%23ff0000&label=Fosstodon%20Follows&labelColor=white&color=%23ff0000">
   <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/twhite96?style=for-the-badge&logoColor=%23ff0000&labelColor=white&color=%23ff0000">
-  <img alt="Gitea Issues" src="https://img.shields.io/gitea/issues/open/tifflabs/homelab-config?gitea_url=https%3A%2F%2Fwww.tifflabs-software.org%2F&style=for-the-badge&logo=gitea&logoColor=%230CE0A1&labelColor=white&color=ff0000">
+  <img alt="Gitea Issues" src="https://img.shields.io/gitea/issues/open/tifflabs/homelab-config?gitea_url=https%3A%2F%2Fwww.tifflabs-software.org%2F&style=for-the-badge&logo=forgejo&logoColor=%23ff0000&labelColor=white&color=ff0000">
 </p>
-
-
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
