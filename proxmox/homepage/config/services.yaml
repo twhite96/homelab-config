@@ -1,0 +1,107 @@
+---
+- Infrastructure and Data:
+    - Proxmox:
+        href: {{proxmox-url}}
+        icon: proxmox.svg
+        description: prx-prod-2
+        siteMonitor: {{proxmox-url}}
+        widget:
+            type: proxmox
+            url: {{proxmox-url}}
+            username: {{HOMEPAGE_VAR_PROXMOX_USERNAME}}
+            password: {{HOMEPAGE_VAR_PROXMOX_PASSWORD}}
+        
+    - Authentik:
+        icon: authentik.png
+        showStats: true
+        href:  {{url}}
+        widget:
+          type: authentik
+          fields: ["users"]
+          url: {{url}}
+          key: {{HOMEPAGE_VAR_AUTHENTIK_KEY}}
+
+- Monitoring:
+    - UptimeKuma:
+        icon: uptime-kuma.svg
+        href: https://uptime.tifflabs.org
+        widget:
+            description: uptime on pve main
+            fields: ["up", "down", "uptime", "incident"]
+            icon: uptime-kuma.svg
+            type: uptimekuma
+            url: {{url}}
+            slug: lab
+    - Pi-hole:
+        icon: pi-hole.svg
+        siteMonitor: {{url}}
+        widget:
+            type: pihole
+            fields: ["queries", "blocked", "blocked_percent", "gravity"]
+            url: {{url}} # required if running v6 or higher, defaults to 5
+            key: {{HOMEPAGE_VAR_PIHOLE_TOKEN}}
+    - Grafana:
+        icon: grafana.svg
+        siteMonitor: {{url}}
+        widget:
+            type: grafana
+            fields: ["dashboards", "datasources", "totalalerts", "alertstriggered"]
+            url: {{url}}
+            username: tifflabs
+            password: {{HOMEPAGE_VAR_GRAFANA_PASSWORD}}
+    - Tailscale:
+        icon: tailscale.svg
+        showStats: true
+        widget:
+            type: tailscale
+            fields: ["address", "last_seen", "expires"]
+            deviceid: {{device-id}}
+            key: {{key}}
+
+- Media:
+    - Jellyfin:
+        icon: jellyfin.svg
+        description: tailnet jellyfin
+        widget:
+            type: jellyfin
+            url: {{url}}
+            fields: ["movies", "series", "episodes", "songs"]
+            key: {{HOMEPAGE_VAR_JELLYFIN_KEY}}
+            enableBlocks: true # optional, defaults to false
+            enableNowPlaying: true # optional, defaults to true
+            enableUser: true # optional, defaults to false
+            showEpisodeNumber: true # optional, defaults to false
+            expandOneStreamToTwoRows: false # optional, defaults to true
+    - Calibre:
+        icon: calibre.svg
+        siteMonitor: https://books.tiffs.app
+        href: 'https://books.tiffs.app'
+        widget:
+           type: calibreweb
+           url: https://books.tiffs.app
+           fields: ["books", "authors", "categories", "series"]
+           username: {{username}}
+           password: {{password}}
+    - FreshRSS:
+        icon: freshrss.svg
+        description: RSS Feed
+        href: https://rss.tifflabs.dev
+        showStats: true
+        widget:
+            type: freshrss
+            url: https://rss.tifflabs.dev
+            fields: ["subscriptions", "unread"]
+            username: {{username}}
+            password: {{password}}
+
+    - Audiobookshelf:
+        icon: audiobookshelf.svg
+        siteMonitor: https://audiobooks.tiffs.app
+        href: https://audiobooks.tiffs.app
+        description: Audiobook Library
+        showStats: true
+        widget:
+          type: audiobookshelf
+          fields: ["podcasts", "podcastsDuration", "books", "booksDuration"]
+          url: https://audiobooks.tiffs.app
+          key: {{HOMEPAGE_VAR_AUDIOBOOKSHELF_KEY}}

@@ -1,0 +1,14 @@
+---
+services:
+  homepage:
+    image: ghcr.io/gethomepage/homepage:latest
+    container_name: homepage-prod-1
+    ports:
+      - 3000:3000
+    env_file:
+      - ".env.example"
+    volumes:
+      - ./config:/app/config # Make sure your local config directory exists
+      - ./images:/app/public/images
+      - ./icons:/app/public/icons
+    restart: unless-stopped
