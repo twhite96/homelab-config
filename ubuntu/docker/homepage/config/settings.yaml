@@ -1,0 +1,74 @@
+---
+title: Dash
+headerStyle: clean
+
+background: 
+  blur: xl
+  brightness: 90
+  opacity: 60
+
+cardBlur: sm
+
+useEqualHeights: true
+
+providers:
+
+
+quicklaunch:
+  searchDescriptions: true
+  hideInternetSearch: true
+  showSearchSuggestions: true
+  hideVisitURL: true
+
+layout:
+  - Services:
+      Infrastructure and Data:
+        icon: proxmox.svg
+        style: row
+        columns: 2
+      Monitoring:
+        icon: grafana.svg
+        style: row
+        columns: 4
+      Media:
+        icon: jellyfin.svg
+        style: row
+        columns: 4
+
+  - Bookmarks:
+    Repositories:
+      icon: github.svg
+      style: row
+      columns: 2
+    Selfhosted Projects:
+      icon: codeberg.svg
+      style: row
+      columns: 2
+    Cloud Platforms:
+      icon: hetzner.svg
+      style: row
+      columns: 2
+    Hosting Platforms:
+      icon: cloudron.svg
+      style: row
+      columns: 2
+    Documentation:
+      icon: bookstack.svg
+      style: row
+      columns: 2
+    Public Projects:
+      icon: forgejo.svg
+      style: row
+      columns: 2
+    Cyber Learning:
+      icon: hackthebox.svg
+      style: row
+      columns: 2
+    Productivity:
+      icon: protonmail.svg
+      style: row
+      columns: 2
+    Public Notes and Writeups:
+      icon: obsidian.svg
+      style: row
+      columns: 2

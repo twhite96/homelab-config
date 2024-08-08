@@ -1,0 +1,92 @@
+---
+- Repositories:
+  - Homelab:
+    - icon: si-github-#FFFFFF
+      href: https://github.com/twhite96/homelab-config
+      description: Homelab config
+  - Homelab Docs:
+    - icon: si-github-#FFFFFF
+      href: https://github.com/twhite96/tifflabs
+      description: Homelab repo 
+
+- Selfhosted Projects:  
+  - tiff labs:
+    - icon: /icons/tifflabsgit.png
+      href: https://tifflabs-software.org
+      description: Labs software hosting
+  - cyber:
+    - icon: /icons/htbavatar.png
+      href: https://projects.0x8c.run
+      description: '0x8c project hosting'
+
+- Cloud Platforms:
+  - Linode:
+    - icon: /icons/linode.png
+      href: https://cloud.linode.com/linodes
+      description: Linode
+  - Hetzner:
+    - icon: si-hetzner-#D50C2D
+      href: https://accounts.hetzner.com/login
+      description: Hetzner
+
+- Hosting Platforms:
+  - Vercel:
+    - icon: si-vercel-#000000
+      href: https://vercel.com/dashboard
+      description: Vercel
+  - Cloudron:
+    - icon: si-cloudron-#03A9F4
+      href: https://console.cloudron.io/
+      description: Cloudron
+
+- Documentation:
+  - Docs site:
+    - icon: si-materialformkdocs-#ff0000
+      href: https://docs.tifflabs.org
+      description: Smart home docs
+  - labs.network:
+    - icon: si-bookstack-#B91C1C
+      href: https://presto-horn.tifflabs.org
+      description: Network wiki
+
+- Public Projects:
+  - Homelab Config:
+    - icon: /icons/tifflabs.svg
+      href: https://homelab.tiff.tools
+      description: Homelab Config
+  - Forgejo Homelab Projects:
+    - icon: si-forgejo-#FB923C
+      href: https://tifflabs-software.org/explore
+      description: Public personal projects
+
+- Cyber Learning:
+  - Hack The Box:
+    - icon: si-hackthebox-#9FEF00
+      href: https://academy.hackthebox.com
+      description: HTB Academy
+  - TryHackMe:
+    - icon: si-tryhackme-#88CC15
+      href: https://tryhackme.com/
+      description: TryHackMe
+
+- Productivity:
+  - Email:
+    - icon: si-protonmail-#6D4AFF
+      href: https://mail.proton.me/
+      description: Email
+  - Calendar:
+    - icon: si-protoncalendar-#50B0E9
+      href: https://calendar.proton.me
+      description: Calendar
+
+- Public Notes and Writeups:      
+  - Notes:
+    - icon: si-obsidian-#7C3AED
+      href: https://notes.0x8c.org
+      description: Public Notes
+  - Wiki:
+    icon: si-gitbook-#BBDDE5
+    href: https://app.gitbook.com/?source=pwa
+    description: Write-ups
+
+
