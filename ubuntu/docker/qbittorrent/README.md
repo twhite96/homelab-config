@@ -6,5 +6,5 @@
 > 
 
 
-<script src="https://gist.github.com/twhite96/631d3544ce01c47a6de787f6c47af60b.js"></script>
+<a href="https://gist.github.com/twhite96/631d3544ce01c47a6de787f6c47af60b"> <img src="https://github-readme-stats-git-master-twhite96.vercel.app/api/gist?id=631d3544ce01c47a6de787f6c47af60b"></a>
 
